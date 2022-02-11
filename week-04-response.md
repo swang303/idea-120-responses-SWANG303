@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-
+<head>
+  <title>WEEK 4 Response</title>
+</head>
+  
 <body>
 
 <h1>Click-bait Image</h1>
